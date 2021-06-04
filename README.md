@@ -1,4 +1,4 @@
-![img postman](https://blog.qualys.com/wp-content/uploads/2020/10/postman.jpg)
+![img postman](https://miro.medium.com/max/3010/1*QOx_tPV5wJnhTzAGhfIiLA.png)
 
 ### In this lab I learned how to use Postman to test web server routes. I also gained more experience writing and executing Node.js REST API servers using VSCode.
 
